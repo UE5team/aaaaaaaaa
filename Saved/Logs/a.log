@@ -4082,3 +4082,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.17-10.03.27:202][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.06.17-10.03.27:204][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.06.17-10.03.27:238][928]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.06.17-10.06.21:629][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CharacterSelection/FrameRate/GM_CharactorSelection.GM_CharactorSelection
+[2024.06.17-10.06.21:629][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.17-10.08.13:826][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.06.17-10.08.15:141][308]LogSlate: Window 'コンテンツを保存' being destroyed
+[2024.06.17-10.08.15:175][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.17-10.08.15:268][308]LogSavePackage: Moving output files for package: /Game/Blueprint/CharacterSelection/WBP/Decision/WD_Decision
+[2024.06.17-10.08.15:269][308]LogSavePackage: Moving '../../../../../../Users/miyab/Desktop/aaa/Saved/WD_DecisionCFB7CE964EC3D0C2B5C17DB64A75161C.tmp' to '../../../../../../Users/miyab/Desktop/aaa/Content/Blueprint/CharacterSelection/WBP/Decision/WD_Decision.uasset'
+[2024.06.17-10.08.15:276][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 390 ms)
+[2024.06.17-10.08.15:281][308]AssetCheck: New page: アセット保存：WD_Decision
+[2024.06.17-10.08.15:281][308]LogContentValidation: Display: /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/CharacterSelection/WBP/Decision/WD_Decision.WD_Decision を検証しています
