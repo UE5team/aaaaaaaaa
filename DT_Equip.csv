@@ -1,0 +1,5 @@
+﻿---,Texture,Speed,Acceleration,Turbo,Weight,WeaponNum
+ミニガン,/Script/Engine.Texture2D'/Game/Texture/EquipSelection/Weapon2.Weapon2',10.00,30.00,30.00,30.00,0.00
+ミサイル,/Script/Engine.Texture2D'/Game/Texture/EquipSelection/Weapon1.Weapon1',10.00,30.00,10.00,50.00,1.00
+SR,/Script/Engine.Texture2D'/Game/Texture/EquipSelection/Weapon4.Weapon4',30.00,30.00,10.00,10.00,2.00
+SMG,/Script/Engine.Texture2D'/Game/Texture/EquipSelection/Weapon3.Weapon3',50.00,30.00,10.00,10.00,3.00
