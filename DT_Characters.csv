@@ -1,0 +1,4 @@
+﻿---,Texture,Speed,Acceleration,Turbo,Armor
+重量型,/Script/Engine.Texture2D'/Game/Texture/CharacterSelection/Character1.Character1',0.5,1,1,2
+汎用型,/Script/Engine.Texture2D'/Game/Texture/CharacterSelection/01.01',1,1,1,1
+軽量型,/Script/Engine.Texture2D'/Game/Texture/CharacterSelection/b814ac01-3f7a-485k9-beb4-b23f63049583.b814ac01-3f7a-485k9-beb4-b23f63049583',2,1,1,0.5
