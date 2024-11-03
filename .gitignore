@@ -25,3 +25,8 @@ DerivedDataCache/
 *.log
 *.vs
 .vscode/
+
+# Allow Plugin Binaries
+!Plugins/*/Binaries/
+!Plugins/*/Content/
+!Plugins/*/Resources/
