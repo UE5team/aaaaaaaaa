@@ -42,10 +42,6 @@
 		{
 			"Name": "ZoneGraph",
 			"Enabled": true
-		},
-		{
-			"Name": "Traffic",
-			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
