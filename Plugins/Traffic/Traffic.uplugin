@@ -5,13 +5,13 @@
 	"FriendlyName": "Traffic",
 	"Description": "Mass & Zone Graph based vehicle AI traffic system",
 	"Category": "AI",
-	"CreatedBy" : "Epic Games Inc",
-	"CreatedByURL" : "http://epicgames.com",
+	"CreatedBy": "Epic Games Inc",
+	"CreatedByURL": "http://epicgames.com",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EnabledByDefault" : false,
-	"CanContainContent": true,
+	"EnabledByDefault": false,
+	"CanContainContent": false,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
@@ -63,6 +63,6 @@
 		{
 			"Name": "AnimToTexture",
 			"Enabled": true
-		},
+		}
 	]
 }
