@@ -20,6 +20,14 @@
 			"Enabled": true
 		},
 		{
+			"Name": "ZoneGraphAnnotations",
+			"Enabled": true
+		},
+		{
+			"Name": "ZoneGraph",
+			"Enabled": true
+		},
+		{
 			"Name": "MassAI",
 			"Enabled": true
 		},
@@ -33,14 +41,6 @@
 		},
 		{
 			"Name": "MassGameplay",
-			"Enabled": true
-		},
-		{
-			"Name": "ZoneGraphAnnotations",
-			"Enabled": true
-		},
-		{
-			"Name": "ZoneGraph",
 			"Enabled": true
 		},
 		{
