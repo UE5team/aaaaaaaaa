@@ -77,6 +77,13 @@ private:
 
 public:
 	
+	const FMassTrafficSimpleVehiclePhysicsConfig* SetupPtr;
+	Chaos::FSimpleEngineSim EngineSim;
+	Chaos::FSimpleDifferentialSim DifferentialSim;
+	Chaos::FSimpleTransmissionSim TransmissionSim;
+	Chaos::FSimpleSteeringSim SteeringSim;
+	Chaos::FSimpleAerodynamicsSim AerodynamicsSim;
+
 	FMassTrafficSimpleVehiclePhysicsSim(
 		const FMassTrafficSimpleVehiclePhysicsConfig* SetupIn = nullptr,
 		const Chaos::FSimpleEngineConfig* EngineConfig = &DefaultEngineConfig, 
@@ -104,13 +111,8 @@ public:
 		return (*SetupPtr);
 	}
 
-	const FMassTrafficSimpleVehiclePhysicsConfig* SetupPtr;
 
-	Chaos::FSimpleEngineSim EngineSim;
-	Chaos::FSimpleDifferentialSim DifferentialSim;
-	Chaos::FSimpleTransmissionSim TransmissionSim;
-	Chaos::FSimpleSteeringSim SteeringSim;
-	Chaos::FSimpleAerodynamicsSim AerodynamicsSim;
+
 
 	static constexpr int32 MaxAxles = 2;
 	TArray<Chaos::FAxleSim, TFixedAllocator<MaxAxles>> AxleSims;
