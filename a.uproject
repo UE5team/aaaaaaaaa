@@ -46,6 +46,10 @@
 		{
 			"Name": "Traffic",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
