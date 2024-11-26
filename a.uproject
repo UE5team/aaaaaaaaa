@@ -50,6 +50,10 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
