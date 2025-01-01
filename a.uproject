@@ -28,26 +28,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MassAI",
-			"Enabled": true
-		},
-		{
-			"Name": "MassCrowd",
-			"Enabled": true
-		},
-		{
-			"Name": "MassEntity",
-			"Enabled": true
-		},
-		{
-			"Name": "MassGameplay",
-			"Enabled": true
-		},
-		{
-			"Name": "Traffic",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
 		},
@@ -57,6 +37,14 @@
 		},
 		{
 			"Name": "CommonLoadingScreen",
+			"Enabled": false
+		},
+		{
+			"Name": "UObjectPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "RuleProcessor",
 			"Enabled": false
 		}
 	],
