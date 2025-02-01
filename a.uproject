@@ -46,9 +46,22 @@
 		{
 			"Name": "RuleProcessor",
 			"Enabled": false
+		},
+		{
+			"Name": "SmartObjects",
+			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
 		"Pludins/CommonLoadingScreen"
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"LinuxArm64",
+		"Mac",
+		"TVOS",
+		"Windows"
 	]
 }
