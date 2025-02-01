@@ -1,7 +1,5 @@
 # Ignore binaries
 *.exe
-*.dll
-*.pdb
 *.app
 *.dylib
 *.so
